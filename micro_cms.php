@@ -1,5 +1,5 @@
 <?php
-// DON’T. STEAL. MY. CODE. You think copying someone else's work and slapping your name on it makes you clever? No, Morty, it makes you a colossal idiot. 
+// DON’T. STEAL. MY. CODE. You think copying someone else's work and slapping your name on it makes you clever? No,  it makes you a colossal Asshole. 
 // Respect the free work and the credits of developers or you will pay in future for codes like this! 
 // Copyright Volkan Kücükbudak
 // Thanks!
