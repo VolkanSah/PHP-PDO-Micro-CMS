@@ -1,4 +1,4 @@
-# Micro CMS Project
+# Micro CMS Boilerplate
 
 **A Basic Content Management System (CMS) with PHP PDO and MySQL**
 
