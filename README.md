@@ -47,4 +47,4 @@ Contributions are welcome! Please submit pull requests with improvements, and en
 
 ## License
 
-This project is licensed under the **MIT License**. See `LICENSE` for details.
+This project is licensed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
