@@ -1,4 +1,9 @@
 <?php
+// DON’T. STEAL. MY. CODE. You think copying someone else's work and slapping your name on it makes you clever? No, Morty, it makes you a colossal idiot. 
+// Respect the free work and the credits of developers or you will pay in future for codes like this! 
+// Copyright Volkan Kücükbudak
+// Thanks!
+
 // Configuration
 $dsn = 'ysql:host=localhost;dbname=micro_cms';
 $username = 'your_database_username';
