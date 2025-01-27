@@ -1,6 +1,6 @@
 # Micro CMS Project
 
-**A Basic Content Management System (CMS) with PHP and MySQL**
+**A Basic Content Management System (CMS) with PHP PDO and MySQL**
 
 ## Table of Contents
 
