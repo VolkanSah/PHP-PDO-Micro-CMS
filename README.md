@@ -1,10 +1,8 @@
 # Micro CMS Project
-=====================
 
 **A Basic Content Management System (CMS) with PHP and MySQL**
 
 ## Table of Contents
------------------
 
 1. [Overview](#overview)
 2. [Security Considerations](#security-considerations)
@@ -14,12 +12,9 @@
 6. [License](#license)
 
 ## Overview
-------------
-
 This Micro CMS is designed to provide a fundamental structure for managing content using PHP and MySQL. It serves as a starting point for developers to build upon, with a focus on simplicity and ease of use.
 
 ## Security Considerations
--------------------------
 
 **WARNING:** This project is intended for educational purposes and **should not be used in production without proper security hardening**. Please consider the following:
 
@@ -31,7 +26,6 @@ This Micro CMS is designed to provide a fundamental structure for managing conte
 * **Password Storage:** Use a secure password hashing algorithm (e.g., Argon2, PBKDF2) to store user passwords.
 
 ## Getting Started
------------------
 
 1. Clone the repository: `git clone https://github.com/your-username/micro-cms.git`
 2. Create a MySQL database and import the provided schema (`micro_cms_schema.sql`)
@@ -39,13 +33,11 @@ This Micro CMS is designed to provide a fundamental structure for managing conte
 4. Serve the project using a PHP-enabled web server (e.g., Apache, Nginx)
 
 ## Features
-------------
 
 * **CRUD Operations:** Create, Read, Update, and Delete pages
 * **Basic User Interface:** Simple frontend for page management
 
 ## Contributing
-------------
 
 Contributions are welcome! Please submit pull requests with improvements, and ensure you:
 
@@ -54,6 +46,5 @@ Contributions are welcome! Please submit pull requests with improvements, and en
 * Address any security concerns outlined in this document
 
 ## License
--------
 
 This project is licensed under the **MIT License**. See `LICENSE` for details.
