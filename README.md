@@ -27,8 +27,8 @@ This Micro CMS is designed to provide a fundamental structure for managing conte
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/micro-cms.git`
-2. Create a MySQL database and import the provided schema (`micro_cms_schema.sql`)
+1. Clone the repository: `
+2. Create a MySQL database and import the provided schema (`init.sql`)
 3. Configure database settings in `micro_cms.php`
 4. Serve the project using a PHP-enabled web server (e.g., Apache, Nginx)
 
