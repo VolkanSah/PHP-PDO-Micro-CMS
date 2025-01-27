@@ -48,3 +48,6 @@ Contributions are welcome! Please submit pull requests with improvements, and en
 ## License
 
 This project is licensed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
+
+## Copyright
+**Volkan Kücükbudak**
